@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Filipe de Avila Belbute-Peres
-subtitle: Ph.D. Student
-subtitle2: Computer Science
-subtitle3: Carnegie Mellon University
+subtitle: Ph.D. Student in Computer Science
+subtitle2: Carnegie Mellon University
 img: img/avatar.png
 social_media: true
 ---
