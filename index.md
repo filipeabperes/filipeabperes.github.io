@@ -7,7 +7,7 @@ img: img/avatar.png
 social_media: true
 ---
 
-Under construction,.
+Under construction.
 
 ### Publications
 
