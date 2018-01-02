@@ -20,7 +20,7 @@ _Deep Reinforcement Learning Symposium, NIPS 2017_\\
 
 
 * __Thinking inside the box: Motion prediction in contained spaces uses simulation__\\
- Kevin A. Smith,__Filipe de Avila Belbute-Peres__, Edward Vul, Joshua B. Tenenbaum \\
+ Kevin A. Smith, __Filipe de Avila Belbute-Peres__, Edward Vul, Joshua B. Tenenbaum \\
  _CogSci 2017_\\
 <a href="http://scripts.mit.edu/~k2smith/publications/Smith_CogSci_Topology.pdf" target="_blank">[paper]</a>
 &nbsp; 
