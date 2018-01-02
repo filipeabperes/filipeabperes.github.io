@@ -9,8 +9,7 @@ social_media: true
 
 Under construction.
 
-### Publications
-
+### Research
 
 * __A Modular Differentiable Rigid Body Physics Engine__ \\
 __Filipe de Avila Belbute-Peres__, J. Zico Kolter \\
