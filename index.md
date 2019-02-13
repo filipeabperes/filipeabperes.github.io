@@ -7,9 +7,15 @@ img: img/avatar.png
 social_media: true
 ---
 
-Under construction.
-
 ### Research
+
+* __End-to-End Differentiable Physics for Learning and Control__ \\
+__Filipe de Avila Belbute-Peres__, Kevin Smith, Kelsey Allen, Josh Tenenbaum, J. Zico Kolter \\
+_NeurIPS 2018_\\
+<a href="http://papers.nips.cc/paper/7948-end-to-end-differentiable-physics-for-learning-and-control" target="_blank">[paper]</a>
+&nbsp; 
+<a href="https://github.com/locuslab/lcp-physics" target="_blank">[code]</a>
+
 
 * __A Modular Differentiable Rigid Body Physics Engine__ \\
 __Filipe de Avila Belbute-Peres__, J. Zico Kolter \\
