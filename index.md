@@ -34,6 +34,6 @@ _Deep Reinforcement Learning Symposium, NIPS 2017_\\
 
 
 * __Rapid Physical Predictions from Convolutional Neural Networks__\\
- __Filipe de Avila Belbute-Peres__, Kevin A. Smith, Joshua B. Tenenbaum \\
+ __Filipe de Avila Belbute-Peres__, Kevin A. Smith, Joshua B Tenenbaum \\
  _Intuitive Physics Workshop, NIPS 2016_\\
 <a href="http://phys.csail.mit.edu/papers/9.pdf" target="_blank">[paper]</a>
