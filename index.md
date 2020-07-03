@@ -38,9 +38,3 @@ _Deep Reinforcement Learning Symposium, NIPS 2017_\\
 <a href="http://scripts.mit.edu/~k2smith/publications/Smith_CogSci_Topology.pdf" target="_blank">[paper]</a>
 &nbsp; 
 <a href="http://www.mit.edu/~k2smith/posters/Poster_Topology.pdf" target="_blank">[poster]</a>
-
-
-* __Rapid Physical Predictions from Convolutional Neural Networks__\\
- __Filipe de Avila Belbute-Peres__, Kevin A. Smith, Joshua B. Tenenbaum \\
- _Intuitive Physics Workshop, NIPS 2016_\\
-<a href="http://phys.csail.mit.edu/papers/9.pdf" target="_blank">[paper]</a>
