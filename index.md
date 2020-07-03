@@ -9,6 +9,13 @@ social_media: true
 
 ### Research
 
+* __Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction__ \\
+__Filipe de Avila Belbute-Peres__, Thomas D. Economon, J. Zico Kolter \\
+_ICML 2020_\\
+&nbsp; 
+[paper and code coming soon]
+
+
 * __End-to-End Differentiable Physics for Learning and Control__ \\
 __Filipe de Avila Belbute-Peres__, Kevin Smith, Kelsey Allen, Josh Tenenbaum, J. Zico Kolter \\
 _NeurIPS 2018_\\
