@@ -13,7 +13,9 @@ social_media: true
 __Filipe de Avila Belbute-Peres__, Thomas D. Economon, J. Zico Kolter \\
 _ICML 2020_\\
 &nbsp; 
-[paper and code coming soon]
+<a href="https://arxiv.org/abs/2007.04439" target="_blank">[paper]</a>
+&nbsp; 
+<a href="https://github.com/locuslab/cfd-gcn" target="_blank">[code]</a>
 
 
 * __End-to-End Differentiable Physics for Learning and Control__ \\
