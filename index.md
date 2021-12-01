@@ -11,7 +11,7 @@ social_media: true
 
 * __HyperPINN: Learning parameterized differential equations with physics-informed hypernetworks__ \\
 __Filipe de Avila Belbute-Peres__, Yifan Chen, Fei Sha \\
-_Symbiosis of Deep Learning and Differential Equations Workshop, NeurIPS 2021 *(Spotlight)*_\\
+_Symbiosis of Deep Learning and Differential Equations Workshop, NeurIPS 2021_ *(Spotlight)*\\
 &nbsp; 
 <a href="https://arxiv.org/abs/2007.04439" target="_blank">[paper]</a>
 &nbsp; 
@@ -29,7 +29,7 @@ _ICML 2020_\\
 
 * __End-to-End Differentiable Physics for Learning and Control__ \\
 __Filipe de Avila Belbute-Peres__, Kevin Smith, Kelsey Allen, Josh Tenenbaum, J. Zico Kolter \\
-_NeurIPS 2018_*(Spotlight)*\\
+_NeurIPS 2018_ *(Spotlight)*\\
 <a href="http://papers.nips.cc/paper/7948-end-to-end-differentiable-physics-for-learning-and-control" target="_blank">[paper]</a>
 &nbsp; 
 <a href="https://github.com/locuslab/lcp-physics" target="_blank">[code]</a>
