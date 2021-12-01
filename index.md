@@ -3,11 +3,20 @@ layout: page
 title: Filipe de Avila Belbute-Peres
 subtitle: Ph.D. Student in Computer Science
 subtitle2: Carnegie Mellon University
-img: img/avatar.png
+img: img/avatar.jpg
 social_media: true
 ---
 
 ### Research
+
+* __HyperPINN: Learning parameterized differential equations with physics-informed hypernetworks__ \\
+__Filipe de Avila Belbute-Peres__, Yifan Chen, Fei Sha \\
+_Symbiosis of Deep Learning and Differential Equations Workshop, NeurIPS 2021 *(Spotlight)*_\\
+&nbsp; 
+<a href="https://arxiv.org/abs/2007.04439" target="_blank">[paper]</a>
+&nbsp; 
+<a href="https://github.com/locuslab/cfd-gcn" target="_blank">[code]</a>
+
 
 * __Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction__ \\
 __Filipe de Avila Belbute-Peres__, Thomas D. Economon, J. Zico Kolter \\
@@ -20,7 +29,7 @@ _ICML 2020_\\
 
 * __End-to-End Differentiable Physics for Learning and Control__ \\
 __Filipe de Avila Belbute-Peres__, Kevin Smith, Kelsey Allen, Josh Tenenbaum, J. Zico Kolter \\
-_NeurIPS 2018_\\
+_NeurIPS 2018_*(Spotlight)*\\
 <a href="http://papers.nips.cc/paper/7948-end-to-end-differentiable-physics-for-learning-and-control" target="_blank">[paper]</a>
 &nbsp; 
 <a href="https://github.com/locuslab/lcp-physics" target="_blank">[code]</a>
