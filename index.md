@@ -11,11 +11,9 @@ social_media: true
 
 * __HyperPINN: Learning parameterized differential equations with physics-informed hypernetworks__ \\
 __Filipe de Avila Belbute-Peres__, Yifan Chen, Fei Sha \\
-_Symbiosis of Deep Learning and Differential Equations Workshop, NeurIPS 2021_ *(Spotlight)*\\
+_Symbiosis of Deep Learning and Differential Equations Workshop, NeurIPS 2021_ ***(Spotlight)**\\
 &nbsp; 
-<a href="https://arxiv.org/abs/2007.04439" target="_blank">[paper]</a>
-&nbsp; 
-<a href="https://github.com/locuslab/cfd-gcn" target="_blank">[code]</a>
+<a href="https://arxiv.org/pdf/2111.01008.pdf" target="_blank">[paper]</a>
 
 
 * __Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction__ \\
