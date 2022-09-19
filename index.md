@@ -29,6 +29,8 @@ _ICML 2020_\\
 Nicholas M Blauch, __Filipe de Avila Belbute-Peres__, Juhi Farooqui, Alireza Chaman Zar, David Plaut, Marlene Behrmann \\
 _Journal of Vision_\\
 &nbsp; 
+<a href="files/2019/assessing_the_similarity.pdf" target="_blank">[poster]</a>
+&nbsp; 
 <a href="https://jov.arvojournals.org/article.aspx?articleid=2750674" target="_blank">[link]</a>
 
 
