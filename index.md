@@ -25,6 +25,13 @@ _ICML 2020_\\
 <a href="https://github.com/locuslab/cfd-gcn" target="_blank">[code]</a>
 
 
+* __Assessing the similarity of cortical object and scene representations through cross-validated voxel encoding models__ \\
+Nicholas M Blauch, __Filipe de Avila Belbute-Peres__, Juhi Farooqui, Alireza Chaman Zar, David Plaut, Marlene Behrmann \\
+_Journal of Vision_\\
+&nbsp; 
+<a href="https://jov.arvojournals.org/article.aspx?articleid=2750674" target="_blank">[link]</a>
+
+
 * __End-to-End Differentiable Physics for Learning and Control__ \\
 __Filipe de Avila Belbute-Peres__, Kevin Smith, Kelsey Allen, Josh Tenenbaum, J. Zico Kolter \\
 _NeurIPS 2018_ **(Spotlight)**\\
