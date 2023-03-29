@@ -1,13 +1,25 @@
 ---
 layout: page
-title: Filipe de Avila Belbute-Peres
-subtitle: Ph.D. Student in Computer Science
-subtitle2: Carnegie Mellon University
+title: Filipe de Avila Belbute Peres
+subtitle: Ph.D. in Computer Science
+subtitle2: 
 img: img/avatar.jpg
 social_media: true
 ---
 
 ### Research
+
+* __GPT-4 Technical Report__ \\
+OpenAI \\
+OpenAI Blog, 2023\\
+&nbsp; 
+<a href="https://arxiv.org/pdf/2303.08774.pdf" target="_blank">[paper]</a>
+
+* __Simple initialization and parametrization of sinusoidal networks via their kernel bandwidth__ \\
+__Filipe de Avila Belbute-Peres__, J. Zico Kolter \\
+_ICLR 2023_\\
+&nbsp; 
+<a href="https://arxiv.org/abs/2211.14503" target="_blank">[paper]</a>
 
 * __HyperPINN: Learning parameterized differential equations with physics-informed hypernetworks__ \\
 __Filipe de Avila Belbute-Peres__, Yifan Chen, Fei Sha \\
@@ -20,7 +32,7 @@ _Symbiosis of Deep Learning and Differential Equations Workshop, NeurIPS 2021_ *
 __Filipe de Avila Belbute-Peres__, Thomas D. Economon, J. Zico Kolter \\
 _ICML 2020_\\
 &nbsp; 
-<a href="https://arxiv.org/abs/2007.04439" target="_blank">[paper]</a>
+<a href="https://arxiv.org/pdf/2007.04439" target="_blank">[paper]</a>
 &nbsp; 
 <a href="https://github.com/locuslab/cfd-gcn" target="_blank">[code]</a>
 
