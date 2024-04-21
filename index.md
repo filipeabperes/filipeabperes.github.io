@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Filipe de Avila Belbute Peres
-subtitle: Ph.D. in Computer Science
+subtitle: 
 subtitle2: 
 img: img/avatar.jpg
 social_media: true
 ---
 
-### Research
+### Publications
 
 * __GPT-4 Technical Report__ \\
 OpenAI \\
