@@ -11,7 +11,7 @@ social_media: true
 
 * __GPT-4 Technical Report__ \\
 OpenAI \\
-OpenAI Blog, 2023\\
+arXiv, 2023\\
 &nbsp; 
 <a href="https://arxiv.org/pdf/2303.08774.pdf" target="_blank">[paper]</a>
 
