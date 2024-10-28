@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Filipe de Avila Belbute Peres
-subtitle: 
+subtitle: Member of Technical Staff at OpenAI
 subtitle2: 
 img: img/avatar.jpg
 social_media: true
