@@ -9,6 +9,12 @@ social_media: true
 
 ### Publications
 
+* __GPT-5 System Card__ \\
+OpenAI \\
+arXiv, 2025\\
+&nbsp; 
+<a href="https://arxiv.org/abs/2601.03267" target="_blank">[paper]</a>
+
 * __GPT-4 Technical Report__ \\
 OpenAI \\
 arXiv, 2023\\
